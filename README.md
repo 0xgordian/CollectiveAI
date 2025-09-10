@@ -3,7 +3,7 @@
 
 > A 6-week open-source roadmap to help developers transition into **Applied AI**  through hands-on projects, tools, and community learning.
 
-This repository is structured as a week-by-week guide, with curated resources, mini-projects, and a focus on building public, portfolio-worthy work. It does not matter if you're self-learning, career-switching, or already in tech — you're welcome .
+This repository is structured as a week-by-week guide, with curated resources, mini-projects, and a focus on building public, portfolio-worthy work. It does not matter if you're self-learning, career-switching, or already in tech, you're welcome .
 
 ---
 
