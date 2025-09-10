@@ -1,7 +1,7 @@
 
 # CollectiveAI
 
-> A 6-week open-source roadmap to help developers transition into **Applied AI** — through hands-on projects, tools, and community learning.
+> A 6-week open-source roadmap to help developers transition into **Applied AI**  through hands-on projects, tools, and community learning.
 
 This repository is structured as a week-by-week guide, with curated resources, mini-projects, and a focus on building public, portfolio-worthy work. It does not matter if you're self-learning, career-switching, or already in tech — you're welcome .
 
@@ -23,7 +23,7 @@ Each week includes resources, a project idea, and tools to try out. You’re enc
 
 ### Week 1 – Core Foundations (Python + Git + APIs)
 
-**🎯 Objective:** Build comfort with Python programming and API usage.
+**Goal:** Build comfort with Python programming and API usage.
 
 - **Python Basics**  
   [Python for Everybody – FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)  
@@ -41,7 +41,7 @@ Each week includes resources, a project idea, and tools to try out. You’re enc
 
 ### Week 2 – First AI App (OpenAI / Hugging Face)
 
-**Objective:** Use an AI API to build your first working app.
+**Goal:** Use an AI API to build your first working app.
 
 - Build a **basic chatbot** or **text generator**
 -  [OpenAI Cookbook](https://cookbook.openai.com/)
@@ -51,7 +51,7 @@ Each week includes resources, a project idea, and tools to try out. You’re enc
 
 ### Week 3 – Web App Development (Streamlit + LangChain)
 
-**Objective:** Wrap your models into interactive web apps.
+**Goal:** Wrap your models into interactive web apps.
 
 - **Text Summarizer App**  
    [Streamlit Docs](https://docs.streamlit.io/)
@@ -63,7 +63,7 @@ Each week includes resources, a project idea, and tools to try out. You’re enc
 
 ### Week 4 – Custom AI Project + Deployment
 
-**Objective:** Build a custom project based on your interests or background.
+**Goal:** Build a custom project based on your interests or background.
 
 - Ideas:
   - AI FAQ Bot (Discord, Slack, support logs)
@@ -77,7 +77,7 @@ Each week includes resources, a project idea, and tools to try out. You’re enc
 
 ### Week 5 – Content & Certification
 
-**Objective:** Share your journey, write, and certify your learning.
+**Goal:** Share your journey, write, and certify your learning.
 
 - **Technical Writing**  
    [Hashnode](https://hashnode.com/)  
@@ -107,13 +107,15 @@ Each week includes resources, a project idea, and tools to try out. You’re enc
   - AI DevRel
   - AI Content Engineer
   - Technical Advocate
+  - AI Researcher
+  - Applied AI Engineer
 
 ---
 
-## 🧭 Folder Structure
+## Folder Structure ( coming soon )
 
-```bash
-📁 applied-ai-collective/
+```
+📁 collectiveAI/
    ├── roadmap/
    │   ├── week1/
    │   ├── week2/
