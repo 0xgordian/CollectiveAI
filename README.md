@@ -166,5 +166,3 @@ MIT License — use freely, remix, and build upon it.
 
 ```
 
----
-
