@@ -23,7 +23,7 @@ Each week includes resources, a project idea, and tools to try out. You’re enc
 
 ### Week 1 – Core Foundations (Python + Git + APIs)
 
-**Goal:** Build comfort with Python programming and API usage.
+**Goal:** Build with Python programming and API.
 
 - **Python Basics**  
   [Python for Everybody – FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)  
